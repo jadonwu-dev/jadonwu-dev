@@ -2,9 +2,9 @@
 
 📍 Berlin · Product Designer & Builder
 
-I built and shipped **[Qarsflow](https://qarsflow.de)**, a trust-first automotive marketplace, and **[BilanzEasy](https://bilanzeasy.de)**, a fintech SaaS product for clearer accounting and tax-preparation workflows.
+I built and shipped **[Qarsflow](https://qarsflow.de)**, a trust first automotive marketplace, and **[BilanzEasy](https://bilanzeasy.de)**, a fintech SaaS product for clearer accounting and tax preparation workflows.
 
-I turn complex, real-world problems into focused digital products—from product strategy and UX flows to polished interfaces, operational tooling and production-ready implementation. I’m now looking to bring that execution focus to one ambitious team.
+I turn complex, real world problems into focused digital products—from product strategy and UX flows to polished interfaces, operational tooling and production-ready implementation. I’m now looking to bring that execution focus to one ambitious team.
 
 ![Product Design](https://img.shields.io/badge/Product%20Design-111827?style=flat-square)
 ![UX Systems](https://img.shields.io/badge/UX%20Systems-0f766e?style=flat-square)
@@ -17,10 +17,10 @@ I turn complex, real-world problems into focused digital products—from product
 
 ### [Qarsflow](https://qarsflow.de) · Automotive Marketplace
 
-Designed and shipped a trust-first product experience for discovering used cars in Germany.
+Designed and shipped a trust first product experience for discovering used cars in Germany.
 
 - Simplified a fragmented, high-consideration buyer journey
-- Designed discovery, navigation and vehicle-detail experiences around clarity and trust
+- Designed discovery, navigation and vehicle detail experiences around clarity and trust
 - Built public product surfaces that balance user needs, conversion and search visibility
 - Connected customer-facing flows with the dashboards and operational tools behind them
 
@@ -28,18 +28,18 @@ Designed and shipped a trust-first product experience for discovering used cars 
 
 Designed and shipped a finance product that makes bookkeeping and tax preparation easier to understand and manage.
 
-- Turned complex financial tasks into approachable, step-by-step workflows
-- Designed dashboards, account flows and structured data-entry experiences
+- Turned complex financial tasks into approachable, step by step workflows
+- Designed dashboards, account flows and structured data entry experiences
 - Prioritized credibility, privacy and clear system feedback
 - Took the product from problem definition through implementation and launch
 
 ## What I Bring
 
-- **Founding-stage product design** — shaping the product while the problem, scope and system are still evolving
-- **End-to-end ownership** — moving from research and product strategy to interaction design, UI and shipped outcomes
+- **Founding stage product design** — shaping the product while the problem, scope and system are still evolving
+- **End to end ownership** — moving from research and product strategy to interaction design, UI and shipped outcomes
 - **Systems thinking** — designing coherent journeys across customer experiences, dashboards and internal operations
 - **Technical fluency** — collaborating closely with engineering and building production interfaces when useful
-- **High-trust design** — creating clarity in marketplaces, financial products and other decision-heavy environments
+- **High trust design** — creating clarity in marketplaces, financial products and other decision-heavy environments
 - **Fast, thoughtful iteration** — using prototypes, data and AI-assisted workflows to learn and improve quickly
 
 ## How I Work
