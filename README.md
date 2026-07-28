@@ -1,72 +1,57 @@
 # Hi, I'm Jadon 👋
 
-📍 Berlin · 🏗️ Product builder · 🚀 Building Qarsflow, BilanzEasy and Quantryx
+📍 Berlin · Product Designer & Builder
 
-Now building live SaaS products, marketplaces, finance tools and AI-assisted workflows. I like taking messy real-world problems and turning them into clear digital products that can be shipped, found and trusted.
+I built and shipped **[Qarsflow](https://qarsflow.de)**, a trust-first automotive marketplace, and **[BilanzEasy](https://bilanzeasy.de)**, a fintech SaaS product for clearer accounting and tax-preparation workflows.
 
+I turn complex, real-world problems into focused digital products—from product strategy and UX flows to polished interfaces, operational tooling and production-ready implementation. I’m now looking to bring that execution focus to one ambitious team.
+
+![Product Design](https://img.shields.io/badge/Product%20Design-111827?style=flat-square)
+![UX Systems](https://img.shields.io/badge/UX%20Systems-0f766e?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AI Workflows](https://img.shields.io/badge/AI%20Workflows-111827?style=flat-square)
 ![Berlin](https://img.shields.io/badge/Berlin-ffdd00?style=flat-square)
 
-## Start Here
+## Selected Product Work
 
-- 🚗 **[Qarsflow](https://qarsflow.de)** - trust-first automotive marketplace for discovering used cars in Germany
-- 📊 **[BilanzEasy](https://bilanzeasy.de)** - accounting and tax-preparation SaaS for simpler business workflows
-- 🏰 **[Quantryx](https://quantryx.de)** - sovereign intelligence product language for serious infrastructure
-- 🧠 **AI workflow systems** - private builder workflows for research, shipping and iteration
-- 🔍 **Search-first product surfaces** - public pages designed to be found, understood and trusted
-- 🧩 **Internal product tooling** - dashboards, admin surfaces and operational flows that keep products moving
+### [Qarsflow](https://qarsflow.de) · Automotive Marketplace
 
-## Current Projects
+Designed and shipped a trust-first product experience for discovering used cars in Germany.
 
-### Live Products
+- Simplified a fragmented, high-consideration buyer journey
+- Designed discovery, navigation and vehicle-detail experiences around clarity and trust
+- Built public product surfaces that balance user needs, conversion and search visibility
+- Connected customer-facing flows with the dashboards and operational tools behind them
 
-- 🚗 **[Qarsflow](https://qarsflow.de)** - automotive product focused on trust, clarity and a smoother buyer journey
-- 📊 **[BilanzEasy](https://bilanzeasy.de)** - finance SaaS for bookkeeping, preparation and clearer business routines
-- 🏰 **[Quantryx](https://quantryx.de)** - enterprise-facing product for controlled, high-trust infrastructure environments
+### [BilanzEasy](https://bilanzeasy.de) · Fintech SaaS
 
-### Product Systems
+Designed and shipped a finance product that makes bookkeeping and tax preparation easier to understand and manage.
 
-- 🧭 **Market clarity systems** - turning fragmented markets into understandable digital flows
-- 🔐 **Trust-first SaaS** - product surfaces where credibility, privacy and confidence matter
-- ⚡ **Launch loops** - fast iteration from idea to public product without losing polish
-- 🤖 **AI-assisted building** - using agents and automation to research, draft, test and improve faster
+- Turned complex financial tasks into approachable, step-by-step workflows
+- Designed dashboards, account flows and structured data-entry experiences
+- Prioritized credibility, privacy and clear system feedback
+- Took the product from problem definition through implementation and launch
 
-### Web, Dashboards & Growth
+## What I Bring
 
-- 🖥️ **Product frontends** - landing pages, dashboards, account flows and admin tools
-- 🔎 **Discovery layers** - SEO, structured public pages and clean navigation paths
-- 📈 **Conversion surfaces** - pages that explain quickly and help users take the next step
-- 🧰 **Builder tooling** - small utilities and workflows that reduce repeated manual work
+- **Founding-stage product design** — shaping the product while the problem, scope and system are still evolving
+- **End-to-end ownership** — moving from research and product strategy to interaction design, UI and shipped outcomes
+- **Systems thinking** — designing coherent journeys across customer experiences, dashboards and internal operations
+- **Technical fluency** — collaborating closely with engineering and building production interfaces when useful
+- **High-trust design** — creating clarity in marketplaces, financial products and other decision-heavy environments
+- **Fast, thoughtful iteration** — using prototypes, data and AI-assisted workflows to learn and improve quickly
 
-## What I'm Doing
+## How I Work
 
-- **Building in Berlin** - shipping German and international product ideas from one focused base
-- **Shipping real products** - I prefer live systems over endless prototype folders
-- **Protecting the playbook** - public enough to show taste, private enough to keep strategy intact
-- **Learning fast** - AI workflows, product strategy, search visibility and operational design
+I reduce ambiguity, make the important trade-offs visible and keep teams moving toward a real release. I care about the details, but I use polish in service of comprehension, confidence and outcomes—not decoration.
 
-## Public Repo Direction
-
-My public repositories are meant to show communication, execution and taste without exposing sensitive product logic.
-
-- clean README files
-- concise setup notes
-- useful screenshots or links
-- practical architecture summaries
-- no unnecessary internal business mechanics
+My strongest work happens close to founders and engineers, where product direction, customer insight and implementation need to stay tightly connected.
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-jadonwu--dev-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/jadonwu-dev)
 [![Qarsflow](https://img.shields.io/badge/Qarsflow-qarsflow.de-0f766e?style=flat-square)](https://qarsflow.de)
 [![BilanzEasy](https://img.shields.io/badge/BilanzEasy-bilanzeasy.de-166534?style=flat-square)](https://bilanzeasy.de)
-[![Quantryx](https://img.shields.io/badge/Quantryx-quantryx.de-111827?style=flat-square)](https://quantryx.de)
 
-## Philosophy
-
-> Build quietly. Ship visibly. Keep the sharp parts private.
+> Build with focus. Ship with clarity.
